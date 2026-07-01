@@ -228,11 +228,6 @@ Production Prompt Engineering
 ```
 ---
 
-## 📝 Related Medium Articles
-
-| Article | Description |
-|---------|-------------|
----
 
 ## 📝 Related Medium Articles
 
