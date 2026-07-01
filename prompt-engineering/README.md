@@ -226,7 +226,28 @@ Prompt Evaluation
        ▼
 Production Prompt Engineering
 ```
+---
 
+## 📝 Related Medium Articles
+
+| Article | Description |
+|---------|-------------|
+---
+
+## 📝 Related Medium Articles
+
+| Article | Description |
+|---------|-------------|
+| **[Prompt Engineering: The Skill That Separates Average AI Users from Expert Practitioners](https://medium.com/@er.rajkumaar/prompt-engineering-the-skill-that-separates-average-ai-users-from-expert-practitioners-ee887d5b8de6?source=friends_link&sk=afdb1d062081ebef3a5c3dc49e89e420)** | A practical, production-tested guide to Prompt Engineering, Context Engineering, Retrieval-Augmented Generation (RAG), and Agentic AI. Learn proven prompting strategies and best practices for building reliable, scalable AI applications. |
+| **[Prompt Engineering in the Real World: How I Design LLM Prompts That Actually Work in Banking, AI, and Computer Vision Systems (Part 1)](https://medium.com/@er.rajkumaar/prompt-engineering-in-the-real-world-the-complete-production-guide-for-building-reliable-ai-fb1c020ad213?source=friends_link&sk=cec5223d57f9aec36a12eae01e6dece3)** | Discover how production-ready prompts are designed for enterprise AI systems across banking, computer vision, and business applications. Covers prompt design principles, prompt architecture, evaluation strategies, and practical engineering techniques. |
+| **[Advanced Prompting Techniques — Reasoning Control (Part 2A)](https://blog.stackademic.com/advanced-prompting-techniques-reasoning-control-part-2a-fce6ae8012dd?source=friends_link&sk=41988dbac79b947a0ec362255a24f0e9)** | Learn advanced prompting techniques that improve reasoning quality using structured thinking, decomposition, planning, and reasoning control to build more accurate and explainable LLM applications. |
+| **[Advanced Prompting Techniques — Stability, Verification, and Trust (Part 2B)](https://blog.stackademic.com/advanced-prompting-techniques-stability-verification-and-trust-part-2b-7bdfe7126881?source=friends_link&sk=c616898e083efd672a8b5037ad68c386)** | Explore techniques for improving consistency, verification, robustness, and trustworthiness in LLM outputs, enabling reliable AI systems for enterprise and regulated environments. |
+| **[Advanced Prompting Techniques — Language, Interpretation, and Safety (Part 2C)](https://blog.stackademic.com/advanced-prompting-techniques-language-interpretation-and-safety-part-2c-e608e5835d6a?source=friends_link&sk=4b6db67b66e35044f656cfd9fbfa97d4)** | Understand how language ambiguity, prompt framing, multilingual inputs, and AI safety influence model behavior, and learn strategies to build secure, interpretable, and resilient prompt workflows. |
+| **[When Prompts Are Not Enough (Part 3)](https://medium.com/@er.rajkumaar/when-prompts-are-not-enough-part-3-8dfccdcae2f0?source=friends_link&sk=95c65640c0e69e7ac32f8f0c0b7f2df0)** | Learn why prompt engineering alone is insufficient for production AI systems and how Context Engineering, Retrieval-Augmented Generation (RAG), memory, tool calling, and Agentic AI enable intelligent, enterprise-grade applications. |
+
+---
+
+---
 ---
 
 # 🔗 Related Sections
