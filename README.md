@@ -1,4 +1,4 @@
-# 🤖 AI Engineering Portfolio
+﻿# ðŸ¤– AI Engineering Portfolio
 
 <p align="center">
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 About This Repository
+## ðŸ“– About This Repository
 
 Welcome to my **AI Engineering Portfolio**.
 
@@ -18,7 +18,7 @@ The content combines theoretical concepts, hands-on implementation guidance, arc
 
 ---
 
-# 🎯 Objectives
+# ðŸŽ¯ Objectives
 
 * Build a structured AI Engineering knowledge base
 * Learn AI from fundamentals to production
@@ -28,66 +28,66 @@ The content combines theoretical concepts, hands-on implementation guidance, arc
 
 ---
 
-# 📚 Repository Structure
+# ðŸ“š Repository Structure
 
 | Domain                                                                           | Description                                                                                                   |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| 📊 **[Machine Learning](./machine-learning/)**                                   | Algorithms, feature engineering, model training, evaluation, and deployment.                                  |
-| 🧠 **[Deep Learning](./deep-learning/)**                                         | Neural Networks, CNNs, RNNs, LSTMs, Transformers, GANs, and Diffusion Models.                                 |
-| 🗣️ **[Natural Language Processing](./natural-language-processing/)**            | Text preprocessing, embeddings, transformers, semantic search, and language understanding.                    |
-| 🤖 **[Generative AI](./generative-ai/)**                                         | Foundation Models, LLMs, SLMs, multimodal AI, fine-tuning, and enterprise GenAI applications.                 |
-| ✍️ **[Prompt Engineering](./prompt-engineering/)**                               | Prompt design, reasoning techniques, structured outputs, evaluation, and optimization.                        |
-| 📚 **[Retrieval-Augmented Generation (RAG)](./retrieval-augmented-generation/)** | Document ingestion, embeddings, vector databases, retrieval pipelines, reranking, and production RAG systems. |
-| 🤖 **[Agentic AI](./agentic-ai/)**                                               | Autonomous AI agents, planning, reasoning, memory, MCP, tool usage, and multi-agent systems.                  |
-| ⚙️ **[LLMOps](./llmops/)**                                                       | Deployment, monitoring, evaluation, observability, optimization, governance, and production operations.       |
-| 🛡️ **[Responsible AI](./responsible-ai/)**                                      | AI ethics, explainability, fairness, governance, compliance, privacy, and AI safety.                          |
-| 🚀 **[AI Projects](./ai-projects/)**                                             | End-to-end AI applications demonstrating production-oriented engineering practices.                           |
-| 🎯 **[Interview Preparation](./interview-preparation/)**                         | Interview questions, coding challenges, AI system design, and technical preparation.                          |
-| 📚 **[Learning Resources](./resources/)**                                        | Books, research papers, official documentation, tools, datasets, and learning resources.                      |
+| ðŸ“Š **[Machine Learning](./machine-learning/)**                                   | Algorithms, feature engineering, model training, evaluation, and deployment.                                  |
+| ðŸ§  **[Deep Learning](./deep-learning/)**                                         | Neural Networks, CNNs, RNNs, LSTMs, Transformers, GANs, and Diffusion Models.                                 |
+| ðŸ—£ï¸ **[Natural Language Processing](./natural-language-processing/)**            | Text preprocessing, embeddings, transformers, semantic search, and language understanding.                    |
+| ðŸ¤– **[Generative AI](./generative-ai/)**                                         | Foundation Models, LLMs, SLMs, multimodal AI, fine-tuning, and enterprise GenAI applications.                 |
+| âœï¸ **[Prompt Engineering](./prompt-engineering/)**                               | Prompt design, reasoning techniques, structured outputs, evaluation, and optimization.                        |
+| ðŸ“š **[Retrieval-Augmented Generation (RAG)](./retrieval-augmented-generation/)** | Document ingestion, embeddings, vector databases, retrieval pipelines, reranking, and production RAG systems. |
+| ðŸ¤– **[Agentic AI](./agentic-ai/)**                                               | Autonomous AI agents, planning, reasoning, memory, MCP, tool usage, and multi-agent systems.                  |
+| âš™ï¸ **[LLMOps](./llmops/)**                                                       | Deployment, monitoring, evaluation, observability, optimization, governance, and production operations.       |
+| ðŸ›¡ï¸ **[Responsible AI](./responsible-ai/)**                                      | AI ethics, explainability, fairness, governance, compliance, privacy, and AI safety.                          |
+| ðŸš€ **[AI Projects](./ai-projects/)**                                             | End-to-end AI applications demonstrating production-oriented engineering practices.                           |
+| ðŸŽ¯ **[Interview Preparation](./interview-preparation/)**                         | Interview questions, coding challenges, AI system design, and technical preparation.                          |
+| ðŸ“š **[Learning Resources](./resources/)**                                        | Books, research papers, official documentation, tools, datasets, and learning resources.                      |
 
 ---
 
-# 🗺️ AI Engineering Learning Roadmap
+# ðŸ—ºï¸ AI Engineering Learning Roadmap
 
 ```text
 Python Programming
-        │
-        ▼
+        â”‚
+        â–¼
 Machine Learning
-        │
-        ▼
+        â”‚
+        â–¼
 Deep Learning
-        │
-        ▼
+        â”‚
+        â–¼
 Natural Language Processing
-        │
-        ▼
+        â”‚
+        â–¼
 Generative AI
-        │
-        ▼
+        â”‚
+        â–¼
 Prompt Engineering
-        │
-        ▼
+        â”‚
+        â–¼
 Retrieval-Augmented Generation (RAG)
-        │
-        ▼
+        â”‚
+        â–¼
 Agentic AI
-        │
-        ▼
+        â”‚
+        â–¼
 LLMOps
-        │
-        ▼
+        â”‚
+        â–¼
 Responsible AI
-        │
-        ▼
+        â”‚
+        â–¼
 Production AI Systems
 ```
 
-📍 **Detailed Roadmap:** **[ROADMAP.md](./ROADMAP.md)**
+ðŸ“ **Detailed Roadmap:** **[ROADMAP.md](./ROADMAP.md)**
 
 ---
 
-# 🛠️ Technology Stack
+# ðŸ› ï¸ Technology Stack
 
 ### Programming Languages
 
@@ -135,7 +135,7 @@ Production AI Systems
 
 ---
 
-# 🚀 Featured Learning Areas
+# ðŸš€ Featured Learning Areas
 
 * Machine Learning Fundamentals
 * Deep Learning Architectures
@@ -151,27 +151,27 @@ Production AI Systems
 
 ---
 
-# 📂 Repository Highlights
+# ðŸ“‚ Repository Highlights
 
-✔ Structured Learning Paths
+âœ” Structured Learning Paths
 
-✔ Production-Oriented AI Engineering
+âœ” Production-Oriented AI Engineering
 
-✔ Practical AI Projects
+âœ” Practical AI Projects
 
-✔ Architecture Guides
+âœ” Architecture Guides
 
-✔ Implementation Notes
+âœ” Implementation Notes
 
-✔ Interview Preparation
+âœ” Interview Preparation
 
-✔ Curated Learning Resources
+âœ” Curated Learning Resources
 
-✔ Continuous Updates
+âœ” Continuous Updates
 
 ---
 
-# 📖 Documentation
+# ðŸ“– Documentation
 
 Each topic is organized into its own directory with dedicated documentation.
 
@@ -179,7 +179,7 @@ Simply navigate to any section from the repository structure above to begin expl
 
 ---
 
-# 🤝 Contributing
+# ðŸ¤ Contributing
 
 Contributions that improve documentation, implementation examples, architecture diagrams, or learning resources are welcome.
 
@@ -187,22 +187,22 @@ Please read **[CONTRIBUTING.md](./CONTRIBUTING.md)** before submitting a Pull Re
 
 ---
 
-# 🌟 Support
+# ðŸŒŸ Support
 
 If you find this repository helpful:
 
-* ⭐ Star this repository
-* 🍴 Fork the repository
-* 📢 Share it with others
-* 💡 Suggest improvements by opening an Issue
+* â­ Star this repository
+* ðŸ´ Fork the repository
+* ðŸ“¢ Share it with others
+* ðŸ’¡ Suggest improvements by opening an Issue
 
 ---
 
-# 📬 Connect With Me
+# ðŸ“¬ Connect With Me
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/rajkumaar123/
-* ✍️ **Medium:** https://medium.com/@er.rajkumaar
-* 🐙 **GitHub:** https://github.com/RajKumaar123
+* ðŸ’¼ **LinkedIn:** https://www.linkedin.com/in/rajkumaar123/
+* âœï¸ **Medium:** https://medium.com/@er.rajkumaar
+* ðŸ™ **GitHub:** https://github.com/RajKumaar123
 
 ---
 

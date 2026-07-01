@@ -1,5 +1,4 @@
-````markdown
-# 🤖 Agentic AI
+﻿# ðŸ¤– Agentic AI
 
 Agentic AI represents the next evolution of Artificial Intelligence, where autonomous systems can reason, plan, make decisions, use external tools, collaborate with other agents, and execute complex multi-step workflows with minimal human intervention.
 
@@ -9,7 +8,7 @@ This section provides a comprehensive guide to designing, building, evaluating, 
 
 ---
 
-# 🎯 Learning Objectives
+# ðŸŽ¯ Learning Objectives
 
 By the end of this section, you will be able to:
 
@@ -22,7 +21,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# 📚 Topics Covered
+# ðŸ“š Topics Covered
 
 ## Introduction
 
@@ -196,7 +195,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# 🛠️ Frameworks & Libraries
+# ðŸ› ï¸ Frameworks & Libraries
 
 ### Agent Frameworks
 
@@ -218,7 +217,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# 🚀 Practical Projects
+# ðŸš€ Practical Projects
 
 This folder will include practical implementations covering:
 
@@ -235,91 +234,91 @@ This folder will include practical implementations covering:
 
 ---
 
-# 📈 Learning Roadmap
+# ðŸ“ˆ Learning Roadmap
 
 ```
 Introduction
-       │
-       ▼
+       â”‚
+       â–¼
 Agent Architecture
-       │
-       ▼
+       â”‚
+       â–¼
 Reasoning
-       │
-       ▼
+       â”‚
+       â–¼
 Planning
-       │
-       ▼
+       â”‚
+       â–¼
 Memory Systems
-       │
-       ▼
+       â”‚
+       â–¼
 Tool Calling
-       │
-       ▼
+       â”‚
+       â–¼
 Model Context Protocol (MCP)
-       │
-       ▼
+       â”‚
+       â–¼
 Multi-Agent Systems
-       │
-       ▼
+       â”‚
+       â–¼
 Agent Frameworks
-       │
-       ▼
+       â”‚
+       â–¼
 Evaluation
-       │
-       ▼
+       â”‚
+       â–¼
 Production Deployment
 ```
 
 ---
 
-# 🏗️ High-Level Agent Architecture
+# ðŸ—ï¸ High-Level Agent Architecture
 
 ```
 User Request
-      │
-      ▼
+      â”‚
+      â–¼
 Planner Agent
-      │
-      ▼
+      â”‚
+      â–¼
 Reasoning Engine
-      │
-      ▼
+      â”‚
+      â–¼
 Memory + Knowledge Retrieval
-      │
-      ▼
+      â”‚
+      â–¼
 Tool Selection
-      │
-      ▼
+      â”‚
+      â–¼
 External APIs / Databases / Services
-      │
-      ▼
+      â”‚
+      â–¼
 Execution
-      │
-      ▼
+      â”‚
+      â–¼
 Reflection & Validation
-      │
-      ▼
+      â”‚
+      â–¼
 Final Response
 ```
 
 ---
 
-# 🔗 Related Sections
+# ðŸ”— Related Sections
 
-- 🤖 Generative AI
-- ✍️ Prompt Engineering
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚙️ LLMOps
-- 🛡️ Responsible AI
+- ðŸ¤– Generative AI
+- âœï¸ Prompt Engineering
+- ðŸ“š Retrieval-Augmented Generation (RAG)
+- âš™ï¸ LLMOps
+- ðŸ›¡ï¸ Responsible AI
 
 ---
 
-# 🎯 End Goal
+# ðŸŽ¯ End Goal
 
 After completing this section, you will be able to design, implement, orchestrate, evaluate, and deploy intelligent autonomous AI agents capable of reasoning, planning, collaborating, using tools, and solving complex enterprise problems in production environments.
 
 ---
 
-> 🚀 This section is continuously updated with architecture diagrams, implementation guides, workflow patterns, code examples, interview questions, enterprise use cases, and production-ready Agentic AI projects.
-````
+> ðŸš€ This section is continuously updated with architecture diagrams, implementation guides, workflow patterns, code examples, interview questions, enterprise use cases, and production-ready Agentic AI projects.
+

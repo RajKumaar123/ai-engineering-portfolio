@@ -1,5 +1,4 @@
-```markdown
-# 🚀 AI Projects
+﻿# ðŸš€ AI Projects
 
 This section showcases end-to-end Artificial Intelligence projects that demonstrate the practical application of Machine Learning, Deep Learning, Natural Language Processing, Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, Computer Vision, and LLMOps.
 
@@ -7,7 +6,7 @@ Each project focuses on solving real-world business problems using production-or
 
 ---
 
-# 🎯 Objectives
+# ðŸŽ¯ Objectives
 
 - Build end-to-end AI applications
 - Apply AI to solve real-world problems
@@ -17,9 +16,9 @@ Each project focuses on solving real-world business problems using production-or
 
 ---
 
-# 📂 Project Categories
+# ðŸ“‚ Project Categories
 
-## 📊 Machine Learning
+## ðŸ“Š Machine Learning
 
 - Customer Churn Prediction
 - Loan Approval Prediction
@@ -30,7 +29,7 @@ Each project focuses on solving real-world business problems using production-or
 
 ---
 
-## 🧠 Deep Learning
+## ðŸ§  Deep Learning
 
 - Image Classification
 - Object Detection
@@ -41,7 +40,7 @@ Each project focuses on solving real-world business problems using production-or
 
 ---
 
-## 🗣️ Natural Language Processing
+## ðŸ—£ï¸ Natural Language Processing
 
 - Sentiment Analysis
 - Text Classification
@@ -52,7 +51,7 @@ Each project focuses on solving real-world business problems using production-or
 
 ---
 
-## 🤖 Generative AI
+## ðŸ¤– Generative AI
 
 - AI Chatbot
 - AI Content Generator
@@ -63,7 +62,7 @@ Each project focuses on solving real-world business problems using production-or
 
 ---
 
-## 📚 Retrieval-Augmented Generation (RAG)
+## ðŸ“š Retrieval-Augmented Generation (RAG)
 
 - PDF Chatbot
 - Enterprise Knowledge Assistant
@@ -74,7 +73,7 @@ Each project focuses on solving real-world business problems using production-or
 
 ---
 
-## 🤖 Agentic AI
+## ðŸ¤– Agentic AI
 
 - Multi-Agent Research System
 - Autonomous Coding Assistant
@@ -85,7 +84,7 @@ Each project focuses on solving real-world business problems using production-or
 
 ---
 
-## 👁️ Computer Vision
+## ðŸ‘ï¸ Computer Vision
 
 - Thermal Red Zone Detection
 - Vehicle Speed Detection
@@ -96,7 +95,7 @@ Each project focuses on solving real-world business problems using production-or
 
 ---
 
-# 🛠️ Technology Stack
+# ðŸ› ï¸ Technology Stack
 
 ## Programming
 
@@ -137,7 +136,7 @@ Each project focuses on solving real-world business problems using production-or
 
 ---
 
-# 📋 Project Template
+# ðŸ“‹ Project Template
 
 Each project follows a consistent structure:
 
@@ -153,11 +152,10 @@ Each project follows a consistent structure:
 
 ---
 
-# 🎯 End Goal
+# ðŸŽ¯ End Goal
 
-This collection demonstrates practical AI engineering skills through complete, production-inspired projects that span the entire AI development lifecycle—from problem definition and model development to deployment, monitoring, and continuous improvement.
+This collection demonstrates practical AI engineering skills through complete, production-inspired projects that span the entire AI development lifecycleâ€”from problem definition and model development to deployment, monitoring, and continuous improvement.
 
 ---
 
-> 🚀 New projects are added regularly as I explore emerging AI technologies and production engineering practices.
-```
+> ðŸš€ New projects are added regularly as I explore emerging AI technologies and production engineering practices.

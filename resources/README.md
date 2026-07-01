@@ -1,5 +1,4 @@
-````markdown
-# 📚 AI Learning Resources
+﻿# ðŸ“š AI Learning Resources
 
 This section serves as a curated collection of high-quality learning resources for Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Generative AI, Retrieval-Augmented Generation (RAG), Agentic AI, LLMOps, and Responsible AI.
 
@@ -7,7 +6,7 @@ The goal is to organize trusted books, research papers, courses, documentation, 
 
 ---
 
-# 🎯 Learning Objectives
+# ðŸŽ¯ Learning Objectives
 
 By exploring these resources, you will be able to:
 
@@ -20,9 +19,9 @@ By exploring these resources, you will be able to:
 
 ---
 
-# 📚 Resource Categories
+# ðŸ“š Resource Categories
 
-## 📖 Books
+## ðŸ“– Books
 
 - Machine Learning
 - Deep Learning
@@ -34,7 +33,7 @@ By exploring these resources, you will be able to:
 
 ---
 
-## 📄 Research Papers
+## ðŸ“„ Research Papers
 
 - Foundational AI Papers
 - Transformer Models
@@ -46,7 +45,7 @@ By exploring these resources, you will be able to:
 
 ---
 
-## 🎓 Online Courses
+## ðŸŽ“ Online Courses
 
 - Machine Learning
 - Deep Learning
@@ -58,7 +57,7 @@ By exploring these resources, you will be able to:
 
 ---
 
-## 📘 Official Documentation
+## ðŸ“˜ Official Documentation
 
 - Python
 - Scikit-learn
@@ -73,7 +72,7 @@ By exploring these resources, you will be able to:
 
 ---
 
-## 🛠️ AI Tools
+## ðŸ› ï¸ AI Tools
 
 - VS Code
 - Jupyter Notebook
@@ -85,7 +84,7 @@ By exploring these resources, you will be able to:
 
 ---
 
-## 📂 Datasets
+## ðŸ“‚ Datasets
 
 - Kaggle
 - Hugging Face Datasets
@@ -95,7 +94,7 @@ By exploring these resources, you will be able to:
 
 ---
 
-## 🌐 Blogs & Technical Articles
+## ðŸŒ Blogs & Technical Articles
 
 - OpenAI
 - Google AI
@@ -106,7 +105,7 @@ By exploring these resources, you will be able to:
 
 ---
 
-## 📰 Newsletters
+## ðŸ“° Newsletters
 
 - The Batch
 - Ben's Bites
@@ -116,7 +115,7 @@ By exploring these resources, you will be able to:
 
 ---
 
-## 🎥 YouTube Channels
+## ðŸŽ¥ YouTube Channels
 
 - DeepLearning.AI
 - Andrej Karpathy
@@ -126,7 +125,7 @@ By exploring these resources, you will be able to:
 
 ---
 
-## 🎙️ Podcasts
+## ðŸŽ™ï¸ Podcasts
 
 - Practical AI
 - Latent Space
@@ -135,7 +134,7 @@ By exploring these resources, you will be able to:
 
 ---
 
-## 👥 Communities
+## ðŸ‘¥ Communities
 
 - GitHub
 - Hugging Face Community
@@ -146,46 +145,45 @@ By exploring these resources, you will be able to:
 
 ---
 
-# 📋 Recommended Learning Path
+# ðŸ“‹ Recommended Learning Path
 
 ```
 Python Programming
-        │
-        ▼
+        â”‚
+        â–¼
 Machine Learning
-        │
-        ▼
+        â”‚
+        â–¼
 Deep Learning
-        │
-        ▼
+        â”‚
+        â–¼
 Natural Language Processing
-        │
-        ▼
+        â”‚
+        â–¼
 Generative AI
-        │
-        ▼
+        â”‚
+        â–¼
 Prompt Engineering
-        │
-        ▼
+        â”‚
+        â–¼
 RAG
-        │
-        ▼
+        â”‚
+        â–¼
 Agentic AI
-        │
-        ▼
+        â”‚
+        â–¼
 LLMOps
-        │
-        ▼
+        â”‚
+        â–¼
 Responsible AI
 ```
 
 ---
 
-# 🎯 End Goal
+# ðŸŽ¯ End Goal
 
 This resource hub is designed to support continuous learning by bringing together trusted references, educational materials, and practical tools that help AI practitioners stay current with the rapidly evolving AI ecosystem.
 
 ---
 
-> 🚀 This section is continuously updated with new books, research papers, official documentation, learning resources, and industry best practices.
-````
+> ðŸš€ This section is continuously updated with new books, research papers, official documentation, learning resources, and industry best practices.

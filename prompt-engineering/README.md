@@ -1,5 +1,4 @@
-````markdown
-# ✍️ Prompt Engineering
+﻿# âœï¸ Prompt Engineering
 
 Prompt Engineering is the discipline of designing, optimizing, and evaluating prompts to effectively communicate with Large Language Models (LLMs). It combines natural language, structured instructions, reasoning strategies, and domain knowledge to build reliable, accurate, and production-ready AI applications.
 
@@ -7,7 +6,7 @@ As modern AI systems become increasingly capable, prompt engineering has evolved
 
 ---
 
-# 🎯 Learning Objectives
+# ðŸŽ¯ Learning Objectives
 
 By the end of this section, you will be able to:
 
@@ -20,7 +19,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# 📚 Topics Covered
+# ðŸ“š Topics Covered
 
 ## Fundamentals
 
@@ -152,7 +151,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# 🛠️ Tools & Frameworks
+# ðŸ› ï¸ Tools & Frameworks
 
 ### LLM APIs
 
@@ -178,7 +177,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# 🚀 Practical Projects
+# ðŸš€ Practical Projects
 
 This folder will include practical implementations covering:
 
@@ -195,57 +194,56 @@ This folder will include practical implementations covering:
 
 ---
 
-# 📈 Learning Roadmap
+# ðŸ“ˆ Learning Roadmap
 
 ```
 Prompt Basics
-       │
-       ▼
+       â”‚
+       â–¼
 Zero/Few-Shot Prompting
-       │
-       ▼
+       â”‚
+       â–¼
 Chain-of-Thought
-       │
-       ▼
+       â”‚
+       â–¼
 ReAct & Tree of Thoughts
-       │
-       ▼
+       â”‚
+       â–¼
 Structured Outputs
-       │
-       ▼
+       â”‚
+       â–¼
 Prompt Design Patterns
-       │
-       ▼
+       â”‚
+       â–¼
 Retrieval-Aware Prompting
-       │
-       ▼
+       â”‚
+       â–¼
 Agent Prompting
-       │
-       ▼
+       â”‚
+       â–¼
 Prompt Evaluation
-       │
-       ▼
+       â”‚
+       â–¼
 Production Prompt Engineering
 ```
 
 ---
 
-# 🔗 Related Sections
+# ðŸ”— Related Sections
 
-- 🤖 Generative AI
-- 🗣️ Natural Language Processing
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🤖 Agentic AI
-- ⚙️ LLMOps
-- 🛡️ Responsible AI
+- ðŸ¤– Generative AI
+- ðŸ—£ï¸ Natural Language Processing
+- ðŸ“š Retrieval-Augmented Generation (RAG)
+- ðŸ¤– Agentic AI
+- âš™ï¸ LLMOps
+- ðŸ›¡ï¸ Responsible AI
 
 ---
 
-# 🎯 End Goal
+# ðŸŽ¯ End Goal
 
 After completing this section, you will be able to design, optimize, evaluate, and manage prompts for production-grade AI systems, enabling reliable interactions with LLMs across enterprise applications, autonomous agents, and retrieval-augmented workflows.
 
 ---
 
-> 🚀 This section is continuously updated with prompting strategies, reusable templates, evaluation techniques, security best practices, hands-on projects, and production-ready prompt engineering workflows.
-````
+> ðŸš€ This section is continuously updated with prompting strategies, reusable templates, evaluation techniques, security best practices, hands-on projects, and production-ready prompt engineering workflows.

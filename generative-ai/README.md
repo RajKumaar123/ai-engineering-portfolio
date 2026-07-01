@@ -1,13 +1,12 @@
-````markdown
-# 🤖 Generative AI
+﻿# ðŸ¤– Generative AI
 
-Generative AI is a transformative field of Artificial Intelligence focused on creating new content—including text, images, audio, video, code, and multimodal experiences—using advanced deep learning models. Powered by Foundation Models and Large Language Models (LLMs), Generative AI is revolutionizing software development, business automation, healthcare, finance, education, and scientific research.
+Generative AI is a transformative field of Artificial Intelligence focused on creating new contentâ€”including text, images, audio, video, code, and multimodal experiencesâ€”using advanced deep learning models. Powered by Foundation Models and Large Language Models (LLMs), Generative AI is revolutionizing software development, business automation, healthcare, finance, education, and scientific research.
 
 This section provides a comprehensive learning journey covering the evolution of Generative AI, foundation models, LLM architectures, multimodal systems, model customization techniques, deployment strategies, and production-ready AI applications.
 
 ---
 
-# 🎯 Learning Objectives
+# ðŸŽ¯ Learning Objectives
 
 By the end of this section, you will be able to:
 
@@ -20,7 +19,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# 📚 Topics Covered
+# ðŸ“š Topics Covered
 
 ## Introduction
 
@@ -188,7 +187,7 @@ Popular Models:
 
 ---
 
-# 🛠️ Frameworks & Libraries
+# ðŸ› ï¸ Frameworks & Libraries
 
 ### LLM Frameworks
 
@@ -215,7 +214,7 @@ Popular Models:
 
 ---
 
-# 🚀 Practical Projects
+# ðŸš€ Practical Projects
 
 This folder will include practical implementations covering:
 
@@ -232,62 +231,61 @@ This folder will include practical implementations covering:
 
 ---
 
-# 📈 Learning Roadmap
+# ðŸ“ˆ Learning Roadmap
 
 ```
 Introduction
-       │
-       ▼
+       â”‚
+       â–¼
 Foundation Models
-       │
-       ▼
+       â”‚
+       â–¼
 Large Language Models
-       │
-       ▼
+       â”‚
+       â–¼
 Prompt Engineering
-       │
-       ▼
+       â”‚
+       â–¼
 Fine-Tuning
-       │
-       ▼
+       â”‚
+       â–¼
 PEFT / LoRA
-       │
-       ▼
+       â”‚
+       â–¼
 Multimodal AI
-       │
-       ▼
+       â”‚
+       â–¼
 AI Agents
-       │
-       ▼
+       â”‚
+       â–¼
 Model Context Protocol
-       │
-       ▼
+       â”‚
+       â–¼
 Deployment
-       │
-       ▼
+       â”‚
+       â–¼
 Production Applications
 ```
 
 ---
 
-# 🔗 Related Sections
+# ðŸ”— Related Sections
 
-- 📊 Machine Learning
-- 🧠 Deep Learning
-- 🗣️ Natural Language Processing
-- ✍️ Prompt Engineering
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🤖 Agentic AI
-- ⚙️ LLMOps
-- 🛡️ Responsible AI
+- ðŸ“Š Machine Learning
+- ðŸ§  Deep Learning
+- ðŸ—£ï¸ Natural Language Processing
+- âœï¸ Prompt Engineering
+- ðŸ“š Retrieval-Augmented Generation (RAG)
+- ðŸ¤– Agentic AI
+- âš™ï¸ LLMOps
+- ðŸ›¡ï¸ Responsible AI
 
 ---
 
-# 🎯 End Goal
+# ðŸŽ¯ End Goal
 
 After completing this section, you will have a comprehensive understanding of Generative AI, from Foundation Models and Large Language Models to multimodal systems, AI agents, fine-tuning strategies, deployment techniques, and production-ready enterprise AI solutions.
 
 ---
 
-> 🚀 This section is continuously updated with tutorials, implementation guides, architecture diagrams, hands-on projects, interview questions, and real-world Generative AI applications.
-````
+> ðŸš€ This section is continuously updated with tutorials, implementation guides, architecture diagrams, hands-on projects, interview questions, and real-world Generative AI applications.

@@ -1,5 +1,4 @@
-````markdown
-# 🛡️ Responsible AI
+﻿# ðŸ›¡ï¸ Responsible AI
 
 Responsible AI is the practice of designing, developing, deploying, and governing Artificial Intelligence systems that are fair, transparent, secure, accountable, and aligned with ethical principles and regulatory requirements. It ensures that AI systems generate trustworthy outcomes while minimizing risks to individuals, organizations, and society.
 
@@ -9,7 +8,7 @@ This section provides a comprehensive guide to building trustworthy AI systems b
 
 ---
 
-# 🎯 Learning Objectives
+# ðŸŽ¯ Learning Objectives
 
 By the end of this section, you will be able to:
 
@@ -22,7 +21,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# 📚 Topics Covered
+# ðŸ“š Topics Covered
 
 ## Introduction
 
@@ -152,7 +151,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# 🛠️ Tools & Frameworks
+# ðŸ› ï¸ Tools & Frameworks
 
 ### Explainability
 
@@ -180,7 +179,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# 🚀 Practical Projects
+# ðŸš€ Practical Projects
 
 This folder will include practical implementations covering:
 
@@ -197,88 +196,87 @@ This folder will include practical implementations covering:
 
 ---
 
-# 📈 Learning Roadmap
+# ðŸ“ˆ Learning Roadmap
 
 ```
 Introduction
-      │
-      ▼
+      â”‚
+      â–¼
 AI Ethics
-      │
-      ▼
+      â”‚
+      â–¼
 Fairness & Bias
-      │
-      ▼
+      â”‚
+      â–¼
 Explainable AI
-      │
-      ▼
+      â”‚
+      â–¼
 AI Safety
-      │
-      ▼
+      â”‚
+      â–¼
 Privacy & Security
-      │
-      ▼
+      â”‚
+      â–¼
 Governance
-      │
-      ▼
+      â”‚
+      â–¼
 Regulatory Compliance
-      │
-      ▼
+      â”‚
+      â–¼
 Human Oversight
-      │
-      ▼
+      â”‚
+      â–¼
 Responsible AI in Production
 ```
 
 ---
 
-# 🏗️ Responsible AI Framework
+# ðŸ—ï¸ Responsible AI Framework
 
 ```
 Data
-   │
-   ▼
+   â”‚
+   â–¼
 Bias Assessment
-   │
-   ▼
+   â”‚
+   â–¼
 Model Development
-   │
-   ▼
+   â”‚
+   â–¼
 Explainability
-   │
-   ▼
+   â”‚
+   â–¼
 Safety & Security
-   │
-   ▼
+   â”‚
+   â–¼
 Governance
-   │
-   ▼
+   â”‚
+   â–¼
 Compliance
-   │
-   ▼
+   â”‚
+   â–¼
 Monitoring
-   │
-   ▼
+   â”‚
+   â–¼
 Continuous Improvement
 ```
 
 ---
 
-# 🔗 Related Sections
+# ðŸ”— Related Sections
 
-- 🤖 Generative AI
-- ✍️ Prompt Engineering
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🤖 Agentic AI
-- ⚙️ LLMOps
+- ðŸ¤– Generative AI
+- âœï¸ Prompt Engineering
+- ðŸ“š Retrieval-Augmented Generation (RAG)
+- ðŸ¤– Agentic AI
+- âš™ï¸ LLMOps
 
 ---
 
-# 🎯 End Goal
+# ðŸŽ¯ End Goal
 
 After completing this section, you will be able to build AI systems that are ethical, transparent, explainable, secure, compliant, and trustworthy while applying industry-recognized Responsible AI principles throughout the AI lifecycle.
 
 ---
 
-> 🚀 This section is continuously updated with implementation guides, governance frameworks, case studies, security practices, regulatory updates, and production-ready Responsible AI methodologies.
-````
+> ðŸš€ This section is continuously updated with implementation guides, governance frameworks, case studies, security practices, regulatory updates, and production-ready Responsible AI methodologies.
