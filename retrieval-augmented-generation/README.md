@@ -1,4 +1,4 @@
-﻿# ðŸ“š Retrieval-Augmented Generation (RAG)
+# 📚 Retrieval-Augmented Generation (RAG)
 
 Retrieval-Augmented Generation (RAG) is an AI architecture that enhances Large Language Models (LLMs) by retrieving relevant information from external knowledge sources before generating responses. By combining semantic search with language generation, RAG enables AI systems to deliver accurate, up-to-date, and context-aware answers while significantly reducing hallucinations.
 
@@ -6,7 +6,7 @@ This section provides a complete guide to designing, implementing, evaluating, a
 
 ---
 
-# ðŸŽ¯ Learning Objectives
+# 🎯 Learning Objectives
 
 By the end of this section, you will be able to:
 
@@ -19,7 +19,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# ðŸ“š Topics Covered
+# 📚 Topics Covered
 
 ## RAG Fundamentals
 
@@ -171,7 +171,7 @@ Popular Models:
 
 ---
 
-# ðŸ› ï¸ Frameworks & Libraries
+# 🛠️ Frameworks & Libraries
 
 ### Frameworks
 
@@ -200,7 +200,7 @@ Popular Models:
 
 ---
 
-# ðŸš€ Practical Projects
+# 🚀 Practical Projects
 
 This folder will include practical implementations covering:
 
@@ -217,96 +217,96 @@ This folder will include practical implementations covering:
 
 ---
 
-# ðŸ“ˆ Learning Roadmap
+# 📈 Learning Roadmap
 
 ```
 Introduction
-       â”‚
-       â–¼
+       │
+       ▼
 Document Ingestion
-       â”‚
-       â–¼
+       │
+       ▼
 Chunking
-       â”‚
-       â–¼
+       │
+       ▼
 Embeddings
-       â”‚
-       â–¼
+       │
+       ▼
 Vector Databases
-       â”‚
-       â–¼
+       │
+       ▼
 Retrieval
-       â”‚
-       â–¼
+       │
+       ▼
 Hybrid Search
-       â”‚
-       â–¼
+       │
+       ▼
 Reranking
-       â”‚
-       â–¼
+       │
+       ▼
 LLM Integration
-       â”‚
-       â–¼
+       │
+       ▼
 Advanced RAG
-       â”‚
-       â–¼
+       │
+       ▼
 Evaluation
-       â”‚
-       â–¼
+       │
+       ▼
 Production Deployment
 ```
 
 ---
 
-# ðŸ—ï¸ Production RAG Architecture
+# 🏗️ Production RAG Architecture
 
 ```
 Documents
-     â”‚
-     â–¼
+     │
+     ▼
 Document Loaders
-     â”‚
-     â–¼
+     │
+     ▼
 Text Cleaning & Chunking
-     â”‚
-     â–¼
+     │
+     ▼
 Embedding Model
-     â”‚
-     â–¼
+     │
+     ▼
 Vector Database
-     â”‚
-     â–¼
+     │
+     ▼
 Retriever
-     â”‚
-     â–¼
+     │
+     ▼
 Reranker
-     â”‚
-     â–¼
+     │
+     ▼
 Prompt Builder
-     â”‚
-     â–¼
+     │
+     ▼
 Large Language Model
-     â”‚
-     â–¼
+     │
+     ▼
 Grounded Response
 ```
 
 ---
 
-# ðŸ”— Related Sections
+# 🔗 Related Sections
 
-- ðŸ¤– Generative AI
-- âœï¸ Prompt Engineering
-- ðŸ¤– Agentic AI
-- âš™ï¸ LLMOps
-- ðŸ›¡ï¸ Responsible AI
+- 🤖 Generative AI
+- ✍️ Prompt Engineering
+- 🤖 Agentic AI
+- ⚙️ LLMOps
+- 🛡️ Responsible AI
 
 ---
 
-# ðŸŽ¯ End Goal
+# 🎯 End Goal
 
 After completing this section, you will be able to design, implement, optimize, evaluate, and deploy enterprise-grade Retrieval-Augmented Generation systems capable of delivering accurate, scalable, secure, and production-ready AI applications.
 
 ---
 
-> ðŸš€ This section is continuously updated with architecture diagrams, implementation guides, optimization techniques, benchmarking methods, interview questions, and production-ready RAG projects.
+> 🚀 This section is continuously updated with architecture diagrams, implementation guides, optimization techniques, benchmarking methods, interview questions, and production-ready RAG projects.

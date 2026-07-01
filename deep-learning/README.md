@@ -1,4 +1,4 @@
-﻿# ðŸ§  Deep Learning
+# 🧠 Deep Learning
 
 Deep Learning is a specialized branch of Machine Learning that uses artificial neural networks with multiple hidden layers to automatically learn complex patterns from large-scale data. It has revolutionized fields such as computer vision, natural language processing, speech recognition, recommendation systems, robotics, and Generative AI.
 
@@ -6,7 +6,7 @@ This section provides a comprehensive learning path covering neural network fund
 
 ---
 
-# ðŸŽ¯ Learning Objectives
+# 🎯 Learning Objectives
 
 By the end of this section, you will be able to:
 
@@ -19,7 +19,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# ðŸ“š Topics Covered
+# 📚 Topics Covered
 
 ## Fundamentals
 
@@ -184,7 +184,7 @@ Popular Models:
 
 ---
 
-# ðŸ› ï¸ Frameworks & Libraries
+# 🛠️ Frameworks & Libraries
 
 ### Deep Learning Frameworks
 
@@ -210,7 +210,7 @@ Popular Models:
 
 ---
 
-# ðŸš€ Practical Projects
+# 🚀 Practical Projects
 
 This folder will include practical implementations covering:
 
@@ -228,42 +228,42 @@ This folder will include practical implementations covering:
 
 ---
 
-# ðŸ“ˆ Learning Roadmap
+# 📈 Learning Roadmap
 
 ```
 Neural Networks
-        â”‚
-        â–¼
+        │
+        ▼
 Optimization Techniques
-        â”‚
-        â–¼
+        │
+        ▼
 CNN
-        â”‚
-        â–¼
+        │
+        ▼
 RNN / LSTM / GRU
-        â”‚
-        â–¼
+        │
+        ▼
 Transformers
-        â”‚
-        â–¼
+        │
+        ▼
 Computer Vision
-        â”‚
-        â–¼
+        │
+        ▼
 Generative Deep Learning
-        â”‚
-        â–¼
+        │
+        ▼
 Large Vision Models
-        â”‚
-        â–¼
+        │
+        ▼
 Production Deployment
 ```
 
 ---
 
-# ðŸŽ¯ End Goal
+# 🎯 End Goal
 
 After completing this section, you will have the knowledge required to build modern deep learning systems for computer vision, NLP, Generative AI, and multimodal applications using industry-standard frameworks and production-ready engineering practices.
 
 ---
 
-> ðŸš€ This section is continuously updated with tutorials, implementation guides, architecture diagrams, interview questions, and real-world deep learning projects.
+> 🚀 This section is continuously updated with tutorials, implementation guides, architecture diagrams, interview questions, and real-world deep learning projects.

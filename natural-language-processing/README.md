@@ -1,4 +1,4 @@
-﻿# ðŸ—£ï¸ Natural Language Processing (NLP)
+# 🗣️ Natural Language Processing (NLP)
 
 Natural Language Processing (NLP) is a branch of Artificial Intelligence that enables computers to understand, interpret, generate, and interact with human language. It combines linguistics, machine learning, and deep learning techniques to build intelligent systems capable of processing text and speech.
 
@@ -8,7 +8,7 @@ This section provides a comprehensive learning path from NLP fundamentals to sta
 
 ---
 
-# ðŸŽ¯ Learning Objectives
+# 🎯 Learning Objectives
 
 By the end of this section, you will be able to:
 
@@ -21,7 +21,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# ðŸ“š Topics Covered
+# 📚 Topics Covered
 
 ## NLP Fundamentals
 
@@ -179,7 +179,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# ðŸ› ï¸ Frameworks & Libraries
+# 🛠️ Frameworks & Libraries
 
 ### NLP Libraries
 
@@ -201,7 +201,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# ðŸš€ Practical Projects
+# 🚀 Practical Projects
 
 This folder will include practical implementations covering:
 
@@ -220,59 +220,59 @@ This folder will include practical implementations covering:
 
 ---
 
-# ðŸ“ˆ Learning Roadmap
+# 📈 Learning Roadmap
 
 ```
 Text Preprocessing
-        â”‚
-        â–¼
+        │
+        ▼
 Feature Engineering
-        â”‚
-        â–¼
+        │
+        ▼
 Word Embeddings
-        â”‚
-        â–¼
+        │
+        ▼
 Sequence Models
-        â”‚
-        â–¼
+        │
+        ▼
 Attention Mechanism
-        â”‚
-        â–¼
+        │
+        ▼
 Transformers
-        â”‚
-        â–¼
+        │
+        ▼
 BERT & GPT
-        â”‚
-        â–¼
+        │
+        ▼
 Embeddings
-        â”‚
-        â–¼
+        │
+        ▼
 Semantic Search
-        â”‚
-        â–¼
+        │
+        ▼
 Large Language Models
-        â”‚
-        â–¼
+        │
+        ▼
 Production NLP
 ```
 
 ---
 
-# ðŸ”— Related Sections
+# 🔗 Related Sections
 
-- ðŸ“Š Machine Learning
-- ðŸ§  Deep Learning
-- ðŸ¤– Generative AI
-- âœï¸ Prompt Engineering
-- ðŸ“š Retrieval-Augmented Generation (RAG)
-- ðŸ¤– Agentic AI
+- 📊 Machine Learning
+- 🧠 Deep Learning
+- 🤖 Generative AI
+- ✍️ Prompt Engineering
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🤖 Agentic AI
 
 ---
 
-# ðŸŽ¯ End Goal
+# 🎯 End Goal
 
 After completing this section, you will be able to design, develop, evaluate, and deploy modern NLP systems ranging from traditional text processing pipelines to transformer-based language models, semantic search systems, multilingual applications, and enterprise-grade LLM-powered solutions.
 
 ---
 
-> ðŸš€ This section is continuously updated with tutorials, implementation guides, code examples, architecture diagrams, interview questions, and real-world NLP projects.
+> 🚀 This section is continuously updated with tutorials, implementation guides, code examples, architecture diagrams, interview questions, and real-world NLP projects.

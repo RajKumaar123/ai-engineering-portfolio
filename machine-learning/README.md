@@ -1,4 +1,4 @@
-﻿# ðŸ“Š Machine Learning
+# 📊 Machine Learning
 
 Machine Learning (ML) is a branch of Artificial Intelligence that enables computers to learn patterns from data and make predictions or decisions without being explicitly programmed. It forms the foundation of modern AI systems and powers applications such as recommendation engines, fraud detection, healthcare diagnostics, predictive analytics, and autonomous systems.
 
@@ -6,7 +6,7 @@ This section provides a structured learning path from ML fundamentals to advance
 
 ---
 
-# ðŸŽ¯ Learning Objectives
+# 🎯 Learning Objectives
 
 By the end of this section, you will be able to:
 
@@ -19,7 +19,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# ðŸ“š Topics Covered
+# 📚 Topics Covered
 
 ## Fundamentals
 
@@ -105,7 +105,7 @@ By the end of this section, you will be able to:
 
 ---
 
-# ðŸ› ï¸ Tools & Libraries
+# 🛠️ Tools & Libraries
 
 - Python
 - NumPy
@@ -119,10 +119,10 @@ By the end of this section, you will be able to:
 
 ---
 
-# ðŸ“‚ Practical Projects
+# 📂 Practical Projects
 
 This folder will include hands-on implementations, notebooks, interview notes, and production-oriented examples covering the complete Machine Learning lifecycle.
 
 ---
 
-> ðŸš€ This section is continuously updated with new tutorials, code examples, interview questions, and real-world projects.
+> 🚀 This section is continuously updated with new tutorials, code examples, interview questions, and real-world projects.
